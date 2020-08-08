@@ -1,14 +1,14 @@
 ### Hello, folks! 👋
 My name is Prakash Wagle and I'm a Software Engineer. I'm from India, living in Detroit and currently working at Ford Motors.
 
-- 🔭 I’m currently working on somithing cool &#57371;
+- 🔭 I’m currently working on something cool :car:
 - 🌱 I’m currently learning NodeJS | Golang | Tensorflow
 - 👯 I’m looking to collaborate on Datascience projects
-- 🤔 I’m looking for help with building Rasberry Pi 
-- 💬 Ask me about anything
+- 🤔 I’m looking for help with building Rasberry Pi Kubernetes Cluster
+- 💬 Ask me about [anything here](https://github.com/prakashwagle/prakashwagle/issues)
 - 📫 How to reach me: [@prakashwagle89](https://twitter.com/prakashwagle89)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I love to :hiking_boot:
 
 ## 🔧 Technologies & Tools
 
