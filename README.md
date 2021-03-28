@@ -7,7 +7,6 @@ My name is Prakash Wagle and I'm a Software Engineer. I'm from India, living in 
 - 🤔 I’m looking for help with building Rasberry Pi Kubernetes Cluster
 - 💬 Ask me about [anything here](https://github.com/prakashwagle/prakashwagle/issues)
 - 📫 How to reach me: [@prakashwagle89](https://twitter.com/prakashwagle89)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to :hiking_boot:
 
 ## 🔧 Technologies & Tools
